@@ -1,0 +1,17 @@
+**************BIENVENUE CHEZ ESSA***************
+ Numero Facture : 4689
+ Nom Client : Aziz Cisse
+ Numero Telephone : 00 000 00 00
+================================================
+ Produits 		 Quantite 		 Prix 		
+================================================
+Cafe ak Mew 		 4 		 1200 FCFA
+Douté 		 1 		 100 FCFA
+Soupou-Kandia 		 2 		 1200 FCFA
+Mbakhal 		 5 		 2500 FCFA
+Couscous 		 3 		 2100 FCFA
+Ndambe 		 6 		 6000 FCFA
+================================================
+
+ Somme Totale : 				 13755.0
+================================================

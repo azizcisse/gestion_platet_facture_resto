@@ -1,0 +1,15 @@
+**************BIENVENUE CHEZ ESSA***************
+ Numero Facture : 9365
+ Nom Client : aaaaaaaaa
+ Numero Telephone : 11111
+================================================
+ Produits 		 Quantite 		 Prix 		
+================================================
+Cafe ak Mew 		 1 		 300 FCFA
+Mbourok Ton 		 2 		 400 FCFA
+Thieb-Yapp 		 5 		 4000 FCFA
+Raggo 		 2 		 1600 FCFA
+================================================
+
+ Somme Totale : 				 6615.0
+================================================

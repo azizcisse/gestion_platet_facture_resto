@@ -1,0 +1,15 @@
+**************BIENVENUE CHEZ ESSA***************
+ Numero Facture : 1282
+ Nom Client : aaaaaaaaa
+ Numero Telephone : 56655566
+================================================
+ Produits 		 Quantite 		 Prix 		
+================================================
+Lakh 		 44 		 17600 FCFA
+Mbourok Ton 		 44 		 8800 FCFA
+Mbakhal 		 72 		 36000 FCFA
+Raggo 		 5 		 4000 FCFA
+================================================
+
+ Somme Totale : 				 69720.0
+================================================
